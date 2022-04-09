@@ -14,15 +14,34 @@ Tools In devops
 10)Agile
 11)linux
 12)java
+13)Jenkins ---testing
 -----------------------------------------------------
 Devops is a combination of two word 
 1)Development
 2)Operations.
 -------------------------------------------------------------
 Git :- It is a repository to store your informations.
-----------------------------------
+--------------------------------------------------------------------------------------------------
 project java:-jdk15,tomcat server,MySql
 you want the project to be  deploy it into a test env or production env.
+Docker --virtual Box.in that the s/w will be installed.and we can run the application there .and create image file.
+It is similar to a exe file.
+-------------------------------------------------------------------------------------------------
+developers-----------------testers
+day1-login				day-1 test cases 
+register
+---------------------------------------------------------------------
+maven:-
+------------------------
+java 
+
+jdk17
+web technology--servlet,jsp,spring,spring boot,micro services(jar)
+---------------------------------------------------------------------------------------------
+
+html-------------spring boot-------------db
+
+
 
 
 
