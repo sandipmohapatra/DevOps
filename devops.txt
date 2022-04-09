@@ -1,0 +1,16 @@
+Tools In devops
+--------------------------
+1)Git
+2)Maven
+3)Docker
+4)Ansible
+5)Puppet
+6)Chef
+7)Nagios
+8)Kubernetes
+9)JUNIT testing
+10)Agile
+-----------------------------------------------------
+Devops is a combination of two word 
+1)Development
+2)Operations.
