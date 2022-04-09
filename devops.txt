@@ -1,3 +1,5 @@
+https://github.com/sandipmohapatra/DevOps
+---------------------------------------------------------------------------
 Tools In devops
 --------------------------
 1)Git
@@ -10,7 +12,23 @@ Tools In devops
 8)Kubernetes
 9)JUNIT testing
 10)Agile
+11)linux
+12)java
 -----------------------------------------------------
 Devops is a combination of two word 
 1)Development
 2)Operations.
+-------------------------------------------------------------
+Git :- It is a repository to store your informations.
+----------------------------------
+project java:-jdk15,tomcat server,MySql
+you want the project to be  deploy it into a test env or production env.
+
+
+
+
+
+
+
+
+
