@@ -8,4 +8,13 @@ example:- any software development we have certain version.1.0 to 5.5.
 5)The git provides the main branch and sub branches.
 Here the main branch indicates the final project.The sub branches indicates the team members.Daily they will upadate there subbranches and the team/module lead will merge these code to the main branch after testing.
 6)we will conduct some operation in windows and some operation in Linux.
-7) 
+7) It is a open-source distributed version control system.It is designed to handle minor to major projects with high speed and efficiency.
+8)Git is secure,scalable,open source,speed and distributed application.
+9)It provides branching and merging.Branching is used for indivisual developer and merging is done to the main stream.
+example :- Main project is the bank.
+		1)one member devloping login,registration pages
+		2)second member developing developing loan processing page.
+		3)third member developing applying for credit/debit card 
+They will all merge to the main bank project.
+10)every time we add ,modify or delete any data from the git ,we have to commit it.
+11)It saves time,we can do offline works,undo mistakes and track changes. 
