@@ -18,3 +18,42 @@ example :- Main project is the bank.
 They will all merge to the main bank project.
 10)every time we add ,modify or delete any data from the git ,we have to commit it.
 11)It saves time,we can do offline works,undo mistakes and track changes. 
+
+-----------------------------------------------------------------------
+Git is a local repository 
+github is a global repository
+
+To copy the uploaded files from github to local folder
+
+github link :-https://github.com/sandipmohapatra/DevOps
+
+commands :-
+-----------------------
+1)git remote add origin "https://github.com/sandipmohapatra/DevOps"
+
+2)get pull origin master/main/mohapatra2018
+
+3)git status :- see how many file are created in the local repository and ready to commit.
+
+4)git add :- lets you to add files to your index.
+
+ git add devops.txt
+
+git add .
+
+5)git commit -m "This is a file from abc project"
+
+6)git log :- to check all the activities
+
+7)ls - to check the list of files.
+
+
+
+
+
+
+
+
+
+
+
