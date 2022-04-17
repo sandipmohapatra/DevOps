@@ -35,6 +35,9 @@ commands :-
 
 3)git status :- see how many file are created in the local repository and ready to commit.
 
+git --we have some files newly added,some files are modified.
+
+
 4)git add :- lets you to add files to your index.
 
  git add devops.txt
@@ -46,6 +49,20 @@ git add .
 6)git log :- to check all the activities
 
 7)ls - to check the list of files.
+
+8)create a branch
+git branch firstbranch
+
+9)to switch to firstbranch
+ git checkout firstbranch
+
+10)vi First.txt
+Type
+:wq
+
+
+11)to see the content of the file
+cat First.tx
 
 
 
