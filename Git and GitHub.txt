@@ -64,6 +64,12 @@ Type
 11)to see the content of the file
 cat First.tx
 
+12)ls :- to check the list of files.
+
+13)
+
+
+
 
 
 
