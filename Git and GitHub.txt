@@ -66,7 +66,20 @@ cat First.tx
 
 12)ls :- to check the list of files.
 
-13)
+13)to merge firstBranch to master
+git checkout master
+git merge firstbranch
+
+master ---first.txt,second.txt,third.txt
+
+firstbranch --fouth.txt,fifth.txt,six.txt
+
+14)git commit -a -m "mofified files"
+
+
+
+
+
 
 
 
