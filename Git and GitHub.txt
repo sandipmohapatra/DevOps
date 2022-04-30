@@ -74,7 +74,27 @@ master ---first.txt,second.txt,third.txt
 
 firstbranch --fouth.txt,fifth.txt,six.txt
 
-14)git commit -a -m "mofified files"
+14)git commit -a -m "modified files"
+all the files will be add to index and commit.
+
+*merge is to add the difference.
+
+15)create ssh key
+ssh-keygen
+
+16)to continue press (y)
+
+17)goto setting at the top where you have profile and logout
+
+18)goto SSH and GPG keys
+
+19)ckick on new SSH key
+
+20)copy the key and paste on the github
+
+21)refresh the page
+
+22)git push origin master
 
 
 
